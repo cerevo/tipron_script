@@ -1,0 +1,2 @@
+ssid:myhome
+pass:1234567890
